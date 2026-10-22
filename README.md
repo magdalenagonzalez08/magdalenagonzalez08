@@ -44,6 +44,6 @@ Trabajo casi siempre con **HTML, CSS y JavaScript sin frameworks**, para que cad
 
 ### Contacto
 
-[LinkedIn](https://www.linkedin.com/in/magdalenagonzalezpanama/) · [Portafolio](https://magdalenagonzalez08.github.io/portafolio-estudiantil.github.io/) · [GitHub Pages](https://magdalenagonzalez08.github.io/)
+[LinkedIn](https://www.linkedin.com/in/magdalenagonzalezpanama/) · [Portafolio](https://magdalenagonzalez08.github.io/)
 
 <sub>Panamá · UTC−5 · Abierta a prácticas y proyectos de seguridad web.</sub>
